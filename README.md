@@ -10,7 +10,7 @@
 - **Dynamic Drawing:** Displays hand landmarks on the video feed in real time.
 - **Simple Interface:** Displays a user-friendly interface with hand tracking overlay on the webcam feed.
 
-**Purpose:**
+**Purposes:**
 
 - To offer a hands-free way to control computer volume using simple hand gestures.
 - To demonstrate how hand gesture recognition can be used to interact with a computer system.
